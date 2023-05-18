@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/cross.png</file>
+        <file>images/noutag.png</file>
+    </qresource>
+</RCC>
